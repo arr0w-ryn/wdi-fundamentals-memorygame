@@ -41,6 +41,18 @@ h2 {
 	letter-spacing: 1px;
 }
 
+h3 {
+	font-family: "Raleway", sans-serif;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #000000;
+	font-size: 18px;
+	letter-spacing: 1px;
+	margin: 0 20px;
+	text-decoration: none;
+	border-bottom: 2px solid transparent;
+}
+
 p {
 	font-family: "Droid Serif", serif;
 	line-height: 26px;
@@ -51,6 +63,13 @@ img {
 	margin: 40px 8px;
 }
 
+button {
+	color: #FFFFFF;
+	background-color: #F15B31;
+	font-family: "Raleway", sans-serif;
+	margin: 20px;
+}
+
 a {
 	font-family: "Raleway", sans-serif;
 	font-weight: 400;
@@ -59,6 +78,19 @@ a {
 	font-size: 18px;
 	letter-spacing: 1px;
 	margin: 0 20px;
+	text-decoration: none;
+	border-bottom: 2px solid transparent;
+}
+
+.social {
+	font-family: "Raleway", sans-serif;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	background-color: #F15B31;
+	font-size: 18px;
+	letter-spacing: 1px;
+	margin: 20px;
 	text-decoration: none;
 	border-bottom: 2px solid transparent;
 }
